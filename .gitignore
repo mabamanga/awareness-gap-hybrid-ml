@@ -1,0 +1,6 @@
+# the raw Google Forms export contains enumerator matric numbers and must never be committed
+*Research Questionnaire*.csv
+Awareness*.csv
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
